@@ -1,0 +1,122 @@
+.header {
+    width: 80vw;
+    height: 8vh;
+    text-align: center;
+    background-color: rgb(0, 123, 255);
+    border: 1px solid black;
+}
+
+h3 {
+    margin-top: 2vh;
+    color: white;
+}
+
+.main {
+    width: 80vw;
+    height: auto;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.change {
+    width: 20vw;
+    height: 8vh;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 0px 1px 0px 0px grey;
+}
+
+h2 {
+    margin-top: 1.5vh;
+    font-size: 1.2em
+}
+
+.button {
+    width: 80vw;
+    height: 8vh;
+    margin-top: 4vh;
+}
+
+.body {
+    width: 75vw;
+    height: auto;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 3vh;
+}
+
+th,
+td {
+    /* width: 20vh;
+    height: 5vh; */
+    border: 1px solid black;
+}
+
+th {
+    background-color: rgb(0, 123, 255);
+    color: white;
+}
+
+.searchData {
+    width: 20vw;
+    height: 8vh;
+}
+
+.findData {
+    width: 5vw;
+    height: 8vh;
+    margin-left: 1vw;
+    background-color: rgb(0, 123, 255);
+    color: white;
+    border: white;
+    font-size: 1.2em;
+}
+
+.retrieveData {
+    margin-top: 3vh;
+    margin-left: 3vw;
+}
+
+.button {
+    width: 20vw;
+    height: 6vh;
+    background-color: rgb(0, 123, 255);
+    color: white;
+    border: white;
+    margin-left: 2vw;
+    font-size: 1.2em;
+}
+
+table {
+    margin-top: 4vh;
+}
+
+.add {
+    width: 10vw;
+    height: 5vh;
+    background-color: rgb(0, 123, 255);
+    border: white;
+    color: white;
+    margin-left: 63vw;
+    margin-top: 20vh;
+}
+
+.retrieveDiv {
+    width: 20vw;
+    height: 40vh;
+    border: 1px solid black;
+    /* text-align: center; */
+    margin-left: 3vw;
+    margin-top: 3vh;
+}
+
+.noData {
+    text-align: center;
+}
+
+table {
+    width: 70vw;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
